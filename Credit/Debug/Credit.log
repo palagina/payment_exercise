@@ -1,0 +1,6 @@
+﻿  CashPayment.cpp
+  CreditCardPayment.cpp
+  demo.cpp
+  Generating Code...
+C:\Users\mariia.palagina\source\repos\Credit\Credit\demo.cpp(9,39): warning C4305:  'argument': truncation from 'double' to 'const float'
+  Credit.vcxproj -> C:\Users\mariia.palagina\source\repos\Credit\Debug\Credit.exe
